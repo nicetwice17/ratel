@@ -1,4 +1,4 @@
-# ratel
+# Ratel
 Freelance: Markup for news site
 Configs:
 Scale rem to px with width change
